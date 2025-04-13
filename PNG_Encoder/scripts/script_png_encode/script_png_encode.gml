@@ -31,7 +31,7 @@
 //
 //=============================================================
 // 
-#region PNG ENCODER.
+#region COMMENTS & INFORMATION.
 /*
   
   This script is used to generate PNG images from raw buffer data.

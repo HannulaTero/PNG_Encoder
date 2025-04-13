@@ -1,0 +1,38 @@
+{
+  "$GMProject":"v1",
+  "%Name":"PNG_Encoder",
+  "AudioGroups":[
+    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"PNG_Encoder","folderPath":"folders/PNG_Encoder.yy","name":"PNG_Encoder","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"PNG_Encoder - Example","folderPath":"folders/PNG_Encoder - Example.yy","name":"PNG_Encoder - Example","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
+  "ForcedPrefabProjectReferences":[],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2024.13.0.190",
+  },
+  "name":"PNG_Encoder",
+  "resources":[
+    {"id":{"name":"object_png_encoder_example","path":"objects/object_png_encoder_example/object_png_encoder_example.yy",},},
+    {"id":{"name":"room_png_encoder_example","path":"rooms/room_png_encoder_example/room_png_encoder_example.yy",},},
+    {"id":{"name":"script_png_encode","path":"scripts/script_png_encode/script_png_encode.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"room_png_encoder_example","path":"rooms/room_png_encoder_example/room_png_encoder_example.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}

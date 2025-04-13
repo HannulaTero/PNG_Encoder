@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"script_png_encode",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"script_png_encode",
+  "parent":{
+    "name":"PNG_Encoder",
+    "path":"folders/PNG_Encoder.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
